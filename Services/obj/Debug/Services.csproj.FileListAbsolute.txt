@@ -1,0 +1,54 @@
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\Services\bin\Debug\Services.dll.config
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\Services\bin\Debug\Services.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\Services\bin\Debug\Services.pdb
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\Services\bin\Debug\DataAccess.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\Services\bin\Debug\EntityFramework.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\Services\bin\Debug\EntityFramework.SqlServer.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\Services\bin\Debug\DataAccess.pdb
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\Services\bin\Debug\DataAccess.dll.config
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\Services\bin\Debug\EntityFramework.xml
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\Services\bin\Debug\EntityFramework.SqlServer.xml
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\Services\obj\Debug\Services.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\Services\obj\Debug\Services.pdb
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\Services\bin\Debug\Services.dll.config
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\Services\bin\Debug\Services.dll
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\Services\bin\Debug\Services.pdb
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\Services\bin\Debug\DataAccess.dll
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\Services\bin\Debug\EntityFramework.dll
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\Services\bin\Debug\DataAccess.pdb
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\Services\bin\Debug\DataAccess.dll.config
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\Services\bin\Debug\EntityFramework.xml
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\Services\obj\Debug\Services.dll
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\Services\obj\Debug\Services.pdb
+C:\CURSO\TP2 - Datos-LinQ\Services\bin\Debug\Services.dll.config
+C:\CURSO\TP2 - Datos-LinQ\Services\bin\Debug\Services.dll
+C:\CURSO\TP2 - Datos-LinQ\Services\bin\Debug\Services.pdb
+C:\CURSO\TP2 - Datos-LinQ\Services\bin\Debug\DataAccess.dll
+C:\CURSO\TP2 - Datos-LinQ\Services\bin\Debug\EntityFramework.dll
+C:\CURSO\TP2 - Datos-LinQ\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\CURSO\TP2 - Datos-LinQ\Services\bin\Debug\DataAccess.pdb
+C:\CURSO\TP2 - Datos-LinQ\Services\bin\Debug\EntityFramework.xml
+C:\CURSO\TP2 - Datos-LinQ\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\CURSO\TP2 - Datos-LinQ\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\CURSO\TP2 - Datos-LinQ\Services\obj\Debug\Services.dll
+C:\CURSO\TP2 - Datos-LinQ\Services\obj\Debug\Services.pdb
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\Services\obj\Debug\Services.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\Services\obj\Debug\Services.pdb
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\Services\bin\Debug\Services.dll.config
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\Services\bin\Debug\Services.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\Services\bin\Debug\Services.pdb
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\Services\bin\Debug\DataAccess.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\Services\bin\Debug\EntityFramework.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\Services\bin\Debug\EntityFramework.SqlServer.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\Services\bin\Debug\DataAccess.pdb
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\Services\bin\Debug\DataAccess.dll.config
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\Services\bin\Debug\EntityFramework.xml
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\Services\bin\Debug\EntityFramework.SqlServer.xml

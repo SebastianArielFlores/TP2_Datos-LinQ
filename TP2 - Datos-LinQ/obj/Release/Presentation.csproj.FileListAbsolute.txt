@@ -1,0 +1,28 @@
+E:\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Release\28-11-17 - PracticaCesar - EF.exe.config
+E:\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Release\28-11-17 - PracticaCesar - EF.exe
+E:\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Release\28-11-17 - PracticaCesar - EF.pdb
+E:\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Release\EntityFramework.dll
+E:\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Release\EntityFramework.SqlServer.dll
+E:\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Release\Services.dll
+E:\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Release\DataAccess.dll
+E:\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Release\Services.pdb
+E:\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Release\EntityFramework.xml
+E:\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Release\EntityFramework.SqlServer.xml
+E:\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Release\DataAccess.pdb
+E:\TP2 - Datos-LinQ\TP2 - Datos-LinQ\obj\Release\Presentation.csprojResolveAssemblyReference.cache
+E:\TP2 - Datos-LinQ\TP2 - Datos-LinQ\obj\Release\28-11-17 - PracticaCesar - EF.exe
+E:\TP2 - Datos-LinQ\TP2 - Datos-LinQ\obj\Release\28-11-17 - PracticaCesar - EF.pdb
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Release\28-11-17 - PracticaCesar - EF.exe.config
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\obj\Release\28-11-17 - PracticaCesar - EF.exe
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\obj\Release\28-11-17 - PracticaCesar - EF.pdb
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Release\28-11-17 - PracticaCesar - EF.exe
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Release\28-11-17 - PracticaCesar - EF.pdb
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Release\EntityFramework.dll
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Release\EntityFramework.SqlServer.dll
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Release\Services.dll
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Release\DataAccess.dll
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Release\Services.pdb
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Release\EntityFramework.xml
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Release\EntityFramework.SqlServer.xml
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Release\DataAccess.pdb
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\obj\Release\Presentation.csprojResolveAssemblyReference.cache

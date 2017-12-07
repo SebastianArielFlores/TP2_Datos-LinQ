@@ -1,0 +1,32 @@
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\DataAccess\bin\Debug\DataAccess.dll.config
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\DataAccess\bin\Debug\DataAccess.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\DataAccess\bin\Debug\DataAccess.pdb
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\DataAccess\bin\Debug\EntityFramework.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\DataAccess\bin\Debug\EntityFramework.xml
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\DataAccess\obj\Debug\DataAccess.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\DataAccess\obj\Debug\DataAccess.pdb
+C:\CURSO\TP2 - Datos-LinQ\DataAccess\bin\Debug\DataAccess.dll.config
+C:\CURSO\TP2 - Datos-LinQ\DataAccess\bin\Debug\DataAccess.dll
+C:\CURSO\TP2 - Datos-LinQ\DataAccess\bin\Debug\DataAccess.pdb
+C:\CURSO\TP2 - Datos-LinQ\DataAccess\bin\Debug\EntityFramework.dll
+C:\CURSO\TP2 - Datos-LinQ\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\CURSO\TP2 - Datos-LinQ\DataAccess\bin\Debug\EntityFramework.xml
+C:\CURSO\TP2 - Datos-LinQ\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\CURSO\TP2 - Datos-LinQ\DataAccess\obj\Debug\DataAccess.dll
+C:\CURSO\TP2 - Datos-LinQ\DataAccess\obj\Debug\DataAccess.pdb
+C:\CURSO\TP2 - Datos-LinQ\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\DataAccess\bin\Debug\DataAccess.dll.config
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\DataAccess\bin\Debug\DataAccess.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\DataAccess\bin\Debug\DataAccess.pdb
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\DataAccess\bin\Debug\EntityFramework.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\DataAccess\bin\Debug\EntityFramework.xml
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\DataAccess\obj\Debug\DataAccess.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,17 @@
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\28-11-17 - PracticaCesar - EF.exe.config
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\28-11-17 - PracticaCesar - EF.exe
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\28-11-17 - PracticaCesar - EF.pdb
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\EntityFramework.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\EntityFramework.SqlServer.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\Services.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\DataAccess.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\Services.pdb
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\Services.dll.config
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\EntityFramework.xml
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\EntityFramework.SqlServer.xml
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\DataAccess.pdb
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\DataAccess.dll.config
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\obj\Debug\28-11-17 - PracticaCesar - EF.csprojResolveAssemblyReference.cache
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\obj\Debug\28-11-17 - PracticaCesar - EF.csproj.CoreCompileInputs.cache
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\obj\Debug\28-11-17 - PracticaCesar - EF.exe
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\obj\Debug\28-11-17 - PracticaCesar - EF.pdb

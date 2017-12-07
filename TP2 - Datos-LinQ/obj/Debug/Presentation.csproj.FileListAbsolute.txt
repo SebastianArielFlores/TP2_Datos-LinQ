@@ -1,0 +1,54 @@
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\28-11-17 - PracticaCesar - EF.exe.config
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\28-11-17 - PracticaCesar - EF.exe
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\28-11-17 - PracticaCesar - EF.pdb
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\EntityFramework.dll
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\Services.dll
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\DataAccess.dll
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\Services.pdb
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\Services.dll.config
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\EntityFramework.xml
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\DataAccess.pdb
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\bin\Debug\DataAccess.dll.config
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\obj\Debug\28-11-17 - PracticaCesar - EF.exe
+C:\Users\TimeDevourer\Desktop\UAI - UNI\CURSO ACCENTURE\28-11-17 - clase 9 Martes\TP 2 Datos\28-11-17 - PracticaCesar - EF\28-11-17 - PracticaCesar - EF\obj\Debug\28-11-17 - PracticaCesar - EF.pdb
+E:\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\28-11-17 - PracticaCesar - EF.exe.config
+E:\TP2 - Datos-LinQ\TP2 - Datos-LinQ\obj\Debug\28-11-17 - PracticaCesar - EF.exe
+E:\TP2 - Datos-LinQ\TP2 - Datos-LinQ\obj\Debug\28-11-17 - PracticaCesar - EF.pdb
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\28-11-17 - PracticaCesar - EF.exe.config
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\obj\Debug\28-11-17 - PracticaCesar - EF.exe
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\obj\Debug\28-11-17 - PracticaCesar - EF.pdb
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\28-11-17 - PracticaCesar - EF.exe
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\28-11-17 - PracticaCesar - EF.pdb
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\EntityFramework.dll
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\EntityFramework.SqlServer.dll
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\Services.dll
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\DataAccess.dll
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\Services.pdb
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\EntityFramework.xml
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\EntityFramework.SqlServer.xml
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\DataAccess.pdb
+C:\CURSO\TP2 - Datos-LinQ\TP2 - Datos-LinQ\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\28-11-17 - PracticaCesar - EF.exe.config
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\28-11-17 - PracticaCesar - EF.exe
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\28-11-17 - PracticaCesar - EF.pdb
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\EntityFramework.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\EntityFramework.SqlServer.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\Services.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\DataAccess.dll
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\Services.pdb
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\Services.dll.config
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\EntityFramework.xml
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\EntityFramework.SqlServer.xml
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\DataAccess.pdb
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\TP2 - Datos-LinQ\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\TP2 - Datos-LinQ\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\TP2 - Datos-LinQ\obj\Debug\28-11-17 - PracticaCesar - EF.exe
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\TP2 - Datos-LinQ\obj\Debug\28-11-17 - PracticaCesar - EF.pdb
+\\fsitsv17\MOS-alumnos\alumno\SebaFlores\(EDIT-06-12) TP2 - Datos-LinQ\TP2 - Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\DataAccess.dll.config
+C:\Repos\TP2_Datos-LinQ\TP2 - Datos-LinQ\bin\Debug\28-11-17 - PracticaCesar - EF.exe.config
+C:\Repos\TP2_Datos-LinQ\TP2 - Datos-LinQ\obj\Debug\28-11-17 - PracticaCesar - EF.exe
+C:\Repos\TP2_Datos-LinQ\TP2 - Datos-LinQ\obj\Debug\28-11-17 - PracticaCesar - EF.pdb
